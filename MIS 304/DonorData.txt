@@ -1,0 +1,45 @@
+Arya Stark
+24380
+Ratio
+Bran Stark
+26409
+Ratio
+Cersei Lannister
+26500
+Dollar
+Daenerys Targaryen
+8107
+Dollar
+Eddard Stark
+16679
+Ratio
+Gregor Clegane
+40731
+Dollar
+H Odor
+24088
+None
+Joffrey Baratheon
+10280
+Ratio
+Jon Snow
+48837
+Ratio
+Jorah Mormont
+18448
+None
+Khal Drogo
+6557
+Dollar
+Lord Varys
+11323
+Dollar
+Margaery Tyrell
+37089
+Dollar
+Sansa Stark
+40283
+Dollar
+Tyrion Lannister
+43889
+Ratio
